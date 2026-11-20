@@ -1,0 +1,612 @@
+{
+    "Greetings & Basics": [
+        {
+            "cz": "Dobrý den",
+            "am": "ጤና ይስጥልኝ / እንደምን ዋሉ",
+            "phonetic": "ዶብሪ ደን",
+            "en": "Hello / Good day (Formal)"
+        },
+        {
+            "cz": "Dobré ráno",
+            "am": "እንደምን አደሩ",
+            "phonetic": "ዶብሬ ራኖ",
+            "en": "Good morning"
+        },
+        {
+            "cz": "Dobrý večer",
+            "am": "እንደምን አመሹ",
+            "phonetic": "ዶብሪ ቬቼር",
+            "en": "Good evening"
+        },
+        {
+            "cz": "Dobrou noc",
+            "am": "ደህና እደሩ",
+            "phonetic": "ዶብሮው ኖጽ",
+            "en": "Good night"
+        },
+        {
+            "cz": "Ahoj",
+            "am": "ሰላም / ቻው",
+            "phonetic": "አሆይ",
+            "en": "Hi / Bye (Informal)"
+        },
+        {
+            "cz": "Na shledanou",
+            "am": "ደህና ሁኑ / በሰላም እንገናኝ",
+            "phonetic": "ና ስኽሌዳኖው",
+            "en": "Goodbye (Formal)"
+        },
+        {
+            "cz": "Děkuji",
+            "am": "አመሰግናለሁ",
+            "phonetic": "ድየኩዪ",
+            "en": "Thank you"
+        },
+        {
+            "cz": "Děkuji mnohokrát",
+            "am": "በጣም አመሰግናለሁ",
+            "phonetic": "ድየኩዪ ምኖሆክራት",
+            "en": "Thank you very much"
+        },
+        {
+            "cz": "Prosím",
+            "am": "እባክዎ / ምንም አይደል",
+            "phonetic": "ፕሮሲም",
+            "en": "Please / You're welcome"
+        },
+        {
+            "cz": "Promiňte",
+            "am": "ይቅርታ",
+            "phonetic": "ፕሮሚኝቴ",
+            "en": "Excuse me / Sorry (Formal)"
+        },
+        {
+            "cz": "Ano",
+            "am": "አዎ",
+            "phonetic": "አኖ",
+            "en": "Yes"
+        },
+        {
+            "cz": "Ne",
+            "am": "አይ / አይደለም",
+            "phonetic": "ኔ",
+            "en": "No"
+        },
+        {
+            "cz": "Jak se máte?",
+            "am": "እንዴት ነዎት?",
+            "phonetic": "ያክ ሴ ማቴ?",
+            "en": "How are you? (Formal)"
+        },
+        {
+            "cz": "Mám se dobře",
+            "am": "ደህና ነኝ",
+            "phonetic": "ማም ሴ ዶብዠ",
+            "en": "I am fine"
+        },
+        {
+            "cz": "Jmenuji se...",
+            "am": "ስሜ ... ይባላል",
+            "phonetic": "ይሜኑዪ ሴ...",
+            "en": "My name is..."
+        },
+        {
+            "cz": "Těší mě",
+            "am": "ስለተዋወቅን ደስ ብሎኛል",
+            "phonetic": "ትየሺ ምኘ",
+            "en": "Nice to meet you"
+        },
+        {
+            "cz": "Jsem z Etiopie",
+            "am": "ከኢትዮጵያ ነኝ",
+            "phonetic": "ይሴም ዝ ኤቲዮፒዬ",
+            "en": "I am from Ethiopia"
+        },
+        {
+            "cz": "Nerozumím",
+            "am": "አልገባኝም",
+            "phonetic": "ኔሮዙሚም",
+            "en": "I don't understand"
+        },
+        {
+            "cz": "Mluvíte anglicky?",
+            "am": "እንግሊዝኛ ይናገራሉ?",
+            "phonetic": "ምሉቪቴ አንግሊጽኪ?",
+            "en": "Do you speak English?"
+        },
+        {
+            "cz": "Mluvte prosím pomalu",
+            "am": "እባክዎ ቀስ ብለው ይናገሩ",
+            "phonetic": "ምሉቭቴ ፕሮሲም ፖማሉ",
+            "en": "Please speak slowly"
+        }
+    ],
+    "Transport & Directions": [
+        {
+            "cz": "Kde je zastávka?",
+            "am": "ፌርማታው የት ነው?",
+            "phonetic": "ግዴ የ ዛስታቭካ?",
+            "en": "Where is the bus/tram stop?"
+        },
+        {
+            "cz": "Kde je metro?",
+            "am": "ሜትሮው የት ነው?",
+            "phonetic": "ግዴ የ ሜትሮ?",
+            "en": "Where is the subway/metro?"
+        },
+        {
+            "cz": "Kde je hlavní nádraží?",
+            "am": "ዋናው ባቡር ጣቢያ የት ነው?",
+            "phonetic": "ግዴ የ ህላቭኒ ናድራዢ?",
+            "en": "Where is the main train station?"
+        },
+        {
+            "cz": "Jeden lístek, prosím",
+            "am": "አንድ ቲኬት እባክዎ",
+            "phonetic": "የደን ሊስቴክ ፕሮሲም",
+            "en": "One ticket, please"
+        },
+        {
+            "cz": "Kde si mohu koupit lístek?",
+            "am": "ቲኬት የት መግዛት እችላለሁ?",
+            "phonetic": "ግዴ ሲ ሞሁ ኮውፒት ሊስቴክ?",
+            "en": "Where can I buy a ticket?"
+        },
+        {
+            "cz": "Jede tato tramvaj do centra?",
+            "am": "ይህ ትራም ወደ መሃል ከተማ ይሄዳል?",
+            "phonetic": "የዴ ታቶ ትራምቫይ ዶ ጼንትራ?",
+            "en": "Does this tram go to the city center?"
+        },
+        {
+            "cz": "Kolik zastávek to je?",
+            "am": "ስንት ፌርማታ ይቀራል?",
+            "phonetic": "ኮሊክ ዛስታቬክ ቶ የ?",
+            "en": "How many stops is it?"
+        },
+        {
+            "cz": "Kde mám přestoupit?",
+            "am": "የት ነው መቀየር (ትራንስፈር ማድረግ) ያለብኝ?",
+            "phonetic": "ግዴ ማም ፕርዠስቶውፒት?",
+            "en": "Where should I transfer?"
+        },
+        {
+            "cz": "Příští zastávka",
+            "am": "ቀጣዩ ፌርማታ",
+            "phonetic": "ፕርዢሽቲ ዛስታቭካ",
+            "en": "Next stop"
+        },
+        {
+            "cz": "Vystupuji",
+            "am": "እወርዳለሁ",
+            "phonetic": "ቪስቱፑዪ",
+            "en": "I am getting off"
+        },
+        {
+            "cz": "Ztratil jsem se",
+            "am": "መንገድ ጠፍቶብኛል",
+            "phonetic": "ዝትራቲል ይሴም ሴ",
+            "en": "I am lost"
+        },
+        {
+            "cz": "Můžete mi ukázat cestu?",
+            "am": "መንገዱን ሊያሳዩኝ ይችላሉ?",
+            "phonetic": "ሙዠቴ ሚ ኡካዛት ጼስቱ?",
+            "en": "Can you show me the way?"
+        },
+        {
+            "cz": "Jděte rovně",
+            "am": "ቀጥ ብለው ይሂዱ",
+            "phonetic": "ይድየቴ ሮቭኘ",
+            "en": "Go straight ahead"
+        },
+        {
+            "cz": "Zahněte doleva",
+            "am": "ወደ ግራ ይታጠፉ",
+            "phonetic": "ዛህኘቴ ዶሌቫ",
+            "en": "Turn left"
+        },
+        {
+            "cz": "Zahněte doprava",
+            "am": "ወደ ቀኝ ይታጠፉ",
+            "phonetic": "ዛህኘቴ ዶፕራቫ",
+            "en": "Turn right"
+        },
+        {
+            "cz": "Je to daleko?",
+            "am": "ሩቅ ነው?",
+            "phonetic": "የ ቶ ዳሌኮ?",
+            "en": "Is it far?"
+        },
+        {
+            "cz": "Je to blízko",
+            "am": "ቅርብ ነው",
+            "phonetic": "የ ቶ ብሊዝኮ",
+            "en": "It is close/near"
+        },
+        {
+            "cz": "Letiště",
+            "am": "አየር ማረፊያ",
+            "phonetic": "ሌቲሽትየ",
+            "en": "Airport"
+        },
+        {
+            "cz": "Zpoždění",
+            "am": "መዘግየት",
+            "phonetic": "ዝፖዥድየኒ",
+            "en": "Delay"
+        },
+        {
+            "cz": "Potřebuji taxi",
+            "am": "ታክሲ እፈልጋለሁ",
+            "phonetic": "ፖትርዠቡዪ ታክሲ",
+            "en": "I need a taxi"
+        }
+    ],
+    "Shopping & Food": [
+        {
+            "cz": "Kolik to stojí?",
+            "am": "ዋጋው ስንት ነው?",
+            "phonetic": "ኮሊክ ቶ ስቶዪ?",
+            "en": "How much does this cost?"
+        },
+        {
+            "cz": "Mohu platit kartou?",
+            "am": "በካርድ መክፈል እችላለሁ?",
+            "phonetic": "ሞሁ ፕላቲት ካርቶው?",
+            "en": "Can I pay by card?"
+        },
+        {
+            "cz": "Platím hotově",
+            "am": "በጥሬ ገንዘብ እከፍላለሁ",
+            "phonetic": "ፕላቲም ሆቶቭየ",
+            "en": "I am paying in cash"
+        },
+        {
+            "cz": "Účtenku, prosím",
+            "am": "ደረሰኝ እባክዎ",
+            "phonetic": "ኡችቴንኩ ፕሮሲም",
+            "en": "Receipt, please"
+        },
+        {
+            "cz": "Tašku, prosím",
+            "am": "ፌስታል / ቦርሳ እባክዎ",
+            "phonetic": "ታሽኩ ፕሮሲም",
+            "en": "A bag, please"
+        },
+        {
+            "cz": "To je drahé",
+            "am": "ይህ ውድ ነው",
+            "phonetic": "ቶ የ ድራሄ",
+            "en": "That is expensive"
+        },
+        {
+            "cz": "Kde je supermarket?",
+            "am": "ሱፐርማርኬት የት ነው?",
+            "phonetic": "ግዴ የ ሱፔርማርኬት?",
+            "en": "Where is the supermarket?"
+        },
+        {
+            "cz": "Hledám...",
+            "am": "... እየፈለግሁ ነው",
+            "phonetic": "ህሌዳም...",
+            "en": "I am looking for..."
+        },
+        {
+            "cz": "Máte to v jiné velikosti?",
+            "am": "ይህንን በሌላ መጠን አላችሁ?",
+            "phonetic": "ማቴ ቶ ቭ ዪኔ ቬሊኮስቲ?",
+            "en": "Do you have this in another size?"
+        },
+        {
+            "cz": "Voda",
+            "am": "ውሃ",
+            "phonetic": "ቮዳ",
+            "en": "Water"
+        },
+        {
+            "cz": "Chléb",
+            "am": "ዳቦ",
+            "phonetic": "ኽሌብ",
+            "en": "Bread"
+        },
+        {
+            "cz": "Mléko",
+            "am": "ወተት",
+            "phonetic": "ምሌኮ",
+            "en": "Milk"
+        },
+        {
+            "cz": "Kuřecí maso",
+            "am": "የዶሮ ስጋ",
+            "phonetic": "ኩርዤጺ ማሶ",
+            "en": "Chicken meat"
+        },
+        {
+            "cz": "Hovězí maso",
+            "am": "የበሬ ስጋ",
+            "phonetic": "ሆቭየዚ ማሶ",
+            "en": "Beef"
+        },
+        {
+            "cz": "Nejim vepřové maso",
+            "am": "የአሳማ ስጋ አልበላም",
+            "phonetic": "ኔዪም ቬፕርዦቬ ማሶ",
+            "en": "I do not eat pork"
+        },
+        {
+            "cz": "Jsem vegetarián",
+            "am": "ቬጀቴሪያን (ስጋ የማልበላ) ነኝ",
+            "phonetic": "ይሴም ቬጌታሪያን",
+            "en": "I am vegetarian"
+        },
+        {
+            "cz": "Káva bez cukru",
+            "am": "ቡና ያለ ስኳር",
+            "phonetic": "ካቫ ቤዝ ጹክሩ",
+            "en": "Coffee without sugar"
+        },
+        {
+            "cz": "Čaj",
+            "am": "ሻይ",
+            "phonetic": "ቻይ",
+            "en": "Tea"
+        },
+        {
+            "cz": "Jídelní lístek, prosím",
+            "am": "የምግብ ዝርዝር (ሜኑ) እባክዎ",
+            "phonetic": "ዪዴልኒ ሊስቴክ ፕሮሲም",
+            "en": "Menu, please"
+        },
+        {
+            "cz": "Účet, prosím",
+            "am": "ሂሳብ እባክዎ",
+            "phonetic": "ኡቼት ፕሮሲም",
+            "en": "The bill/check, please"
+        }
+    ],
+    "University & Documents": [
+        {
+            "cz": "Jsem student z Etiopie",
+            "am": "ከኢትዮጵያ የመጣሁ ተማሪ ነኝ",
+            "phonetic": "ይሴም ስቱዴንት ዝ ኤቲዮፒዬ",
+            "en": "I am a student from Ethiopia"
+        },
+        {
+            "cz": "Tady je můj pas",
+            "am": "ፓስፖርቴ ይኸውና",
+            "phonetic": "ታዲ የ ሙይ ፓስ",
+            "en": "Here is my passport"
+        },
+        {
+            "cz": "Povolení k pobytu",
+            "am": "የመኖሪያ ፈቃድ",
+            "phonetic": "ፖቮሌኒ ክ ፖቢቱ",
+            "en": "Residence permit"
+        },
+        {
+            "cz": "Mám schůzku",
+            "am": "ቀጠሮ አለኝ",
+            "phonetic": "ማም ስኹዝኩ",
+            "en": "I have an appointment"
+        },
+        {
+            "cz": "Cizinecká policie",
+            "am": "የውጭ ዜጎች ፖሊስ (ኢሚግሬሽን)",
+            "phonetic": "ጺዚኔጽካ ፖሊጺዬ",
+            "en": "Foreign Police"
+        },
+        {
+            "cz": "Potvrzení o studiu",
+            "am": "የተማሪነት ማረጋገጫ ደብዳቤ",
+            "phonetic": "ፖትቭርዜኒ ኦ ስቱዲዩ",
+            "en": "Confirmation of study"
+        },
+        {
+            "cz": "Potvrzení o ubytování",
+            "am": "የመኖሪያ ቤት ማረጋገጫ",
+            "phonetic": "ፖትቭርዜኒ ኦ ኡቢቶቫኒ",
+            "en": "Proof of accommodation"
+        },
+        {
+            "cz": "Kde se mám podepsat?",
+            "am": "የት ነው መፈረም ያለብኝ?",
+            "phonetic": "ግዴ ሴ ማም ፖዴፕሳት?",
+            "en": "Where should I sign?"
+        },
+        {
+            "cz": "Potřebuji kopii",
+            "am": "ፎቶ ኮፒ እፈልጋለሁ",
+            "phonetic": "ፖትርዠቡዪ ኮፒዪ",
+            "en": "I need a copy"
+        },
+        {
+            "cz": "Kde je studijní oddělení?",
+            "am": "የተማሪዎች ጉዳይ ቢሮ (ሬጅስትራር) የት ነው?",
+            "phonetic": "ግዴ የ ስቱዲይኒ ኦድየሌኒ?",
+            "en": "Where is the study department?"
+        },
+        {
+            "cz": "Kolej",
+            "am": "የተማሪዎች መኖሪያ (ዶርም)",
+            "phonetic": "ኮሌይ",
+            "en": "Student dormitory"
+        },
+        {
+            "cz": "Menza",
+            "am": "የዩኒቨርሲቲ ካንቲን / ካፌ",
+            "phonetic": "ሜንዛ",
+            "en": "University canteen"
+        },
+        {
+            "cz": "Knihovna",
+            "am": "ቤተ-መጻሕፍት",
+            "phonetic": "ክኒሆቭና",
+            "en": "Library"
+        },
+        {
+            "cz": "Přednáška",
+            "am": "ሌክቸር / ክፍለ ጊዜ",
+            "phonetic": "ፕርዤድናሽካ",
+            "en": "Lecture"
+        },
+        {
+            "cz": "Zkouška",
+            "am": "ፈተና",
+            "phonetic": "ዝኮውሽካ",
+            "en": "Exam"
+        },
+        {
+            "cz": "Mám dotaz",
+            "am": "ጥያቄ አለኝ",
+            "phonetic": "ማም ዶታዝ",
+            "en": "I have a question"
+        },
+        {
+            "cz": "Bankovní účet",
+            "am": "የባንክ ሂሳብ",
+            "phonetic": "ባንኮቭኒ ኡቼት",
+            "en": "Bank account"
+        },
+        {
+            "cz": "Chci si založit účet",
+            "am": "የባንክ ሂሳብ መክፈት እፈልጋለሁ",
+            "phonetic": "ኽጺ ሲ ዛሎዢት ኡቼት",
+            "en": "I want to open an account"
+        },
+        {
+            "cz": "Adresa",
+            "am": "አድራሻ",
+            "phonetic": "አድሬሳ",
+            "en": "Address"
+        },
+        {
+            "cz": "Telefonní číslo",
+            "am": "ስልክ ቁጥር",
+            "phonetic": "ቴሌፎኒ ቺስሎ",
+            "en": "Phone number"
+        }
+    ],
+    "Health & Emergencies": [
+        {
+            "cz": "Pomoc!",
+            "am": "እርዳታ!",
+            "phonetic": "ፖሞጽ!",
+            "en": "Help!"
+        },
+        {
+            "cz": "Zavolejte sanitku",
+            "am": "አምቡላንስ ጥሩ",
+            "phonetic": "ዛቮሌይቴ ሳኒትኩ",
+            "en": "Call an ambulance"
+        },
+        {
+            "cz": "Zavolejte policii",
+            "am": "ፖሊስ ጥሩ",
+            "phonetic": "ዛቮሌይቴ ፖሊጺዪ",
+            "en": "Call the police"
+        },
+        {
+            "cz": "Je mi špatně",
+            "am": "አሞኛል / ጥሩ ስሜት አይሰማኝም",
+            "phonetic": "የ ሚ ሽፓትኘ",
+            "en": "I feel sick / unwell"
+        },
+        {
+            "cz": "Potřebuji lékaře",
+            "am": "ሐኪም ያስፈልገኛል",
+            "phonetic": "ፖትርዠቡዪ ሌካርዤ",
+            "en": "I need a doctor"
+        },
+        {
+            "cz": "Kde je nemocnice?",
+            "am": "ሆስፒታል የት ነው?",
+            "phonetic": "ግዴ የ ኔሞጽኒጼ?",
+            "en": "Where is the hospital?"
+        },
+        {
+            "cz": "Kde je lékárna?",
+            "am": "ፋርማሲ (መድኃኒት ቤት) የት ነው?",
+            "phonetic": "ግዴ የ ሌካርና?",
+            "en": "Where is the pharmacy?"
+        },
+        {
+            "cz": "Mám zdravotní pojištění",
+            "am": "የጤና መድን (ኢንሹራንስ) አለኝ",
+            "phonetic": "ማም ዝድራቮትኒ ፖዪሽትየኒ",
+            "en": "I have health insurance"
+        },
+        {
+            "cz": "Bolí mě hlava",
+            "am": "ራሴን ያመኛል",
+            "phonetic": "ቦሊ ምኘ ህላቫ",
+            "en": "I have a headache"
+        },
+        {
+            "cz": "Bolí mě břicho",
+            "am": "ሆዴን ያመኛል",
+            "phonetic": "ቦሊ ምኘ ብርዢኾ",
+            "en": "I have a stomachache"
+        },
+        {
+            "cz": "Bolí mě v krku",
+            "am": "ጉሮሮዬን ያመኛል",
+            "phonetic": "ቦሊ ምኘ ቭ ክርኩ",
+            "en": "I have a sore throat"
+        },
+        {
+            "cz": "Mám horečku",
+            "am": "ትኩሳት አለብኝ",
+            "phonetic": "ማም ሆሬችኩ",
+            "en": "I have a fever"
+        },
+        {
+            "cz": "Jsem alergický na...",
+            "am": "ለ... አለርጂክ ነኝ",
+            "phonetic": "ይሴም አሌርጊጽኪ ና...",
+            "en": "I am allergic to..."
+        },
+        {
+            "cz": "Lék proti bolesti",
+            "am": "የህመም ማስታገሻ መድኃኒት",
+            "phonetic": "ሌክ ፕሮቲ ቦሌስቲ",
+            "en": "Painkiller"
+        },
+        {
+            "cz": "Ztratil jsem pas",
+            "am": "ፓስፖርቴ ጠፍቶብኛል",
+            "phonetic": "ዝትራቲል ይሴም ፓስ",
+            "en": "I lost my passport"
+        },
+        {
+            "cz": "Okradli mě",
+            "am": "ተዘርፌያለሁ / ተሰርቄያለሁ",
+            "phonetic": "ኦክራድሊ ምኘ",
+            "en": "I was robbed"
+        },
+        {
+            "cz": "Můžete mi pomoci?",
+            "am": "ሊረዱኝ ይችላሉ?",
+            "phonetic": "ሙዠቴ ሚ ፖሞጺ?",
+            "en": "Can you help me?"
+        },
+        {
+            "cz": "Je to naléhavé",
+            "am": "አስቸኳይ ነው",
+            "phonetic": "የ ቶ ናሌሃቬ",
+            "en": "It is urgent"
+        },
+        {
+            "cz": "Pohotovost",
+            "am": "ድንገተኛ ክፍል (ኢመርጀንሲ)",
+            "phonetic": "ፖሆቶቮስት",
+            "en": "Emergency room / Urgent care"
+        },
+        {
+            "cz": "Je mi zima",
+            "am": "በርዶኛል",
+            "phonetic": "የ ሚ ዚማ",
+            "en": "I am cold"
+        }
+    ]
+}
