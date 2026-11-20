@@ -4,25 +4,25 @@ An interactive Telegram bot designed to help Amharic speakers learn everyday Cze
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🗂️ **Categorized Flashcards**: Explore essential phrases across various topics (Greetings, Travel, Numbers, Emergency, etc.).
-- 🗣️ **Amharic Phonetics**: Czech pronunciation transcribed into Amharic script so you can read and pronounce words accurately.
-- 🔊 **Voice Audio Pronunciation**: Built-in text-to-speech (gTTS) delivers clear Czech native voice messages with one tap.
-- 📱 **Interactive UI**: Navigate easily with inline buttons (`Prev`, `Next`, `Listen`, and `All Categories`).
-- 🇬🇧 **Trilingual Context**: Every flashcard shows the phrase in **Czech**, **Amharic**, and **English**.
+-  **Categorized Flashcards**: Explore essential phrases across various topics (Greetings, Travel, Numbers, Emergency, etc.).
+-  **Amharic Phonetics**: Czech pronunciation transcribed into Amharic script so you can read and pronounce words accurately.
+-  **Voice Audio Pronunciation**: Built-in text-to-speech (gTTS) delivers clear Czech native voice messages with one tap.
+-  **Interactive UI**: Navigate easily with inline buttons (`Prev`, `Next`, `Listen`, and `All Categories`).
+-  **Trilingual Context**: Every flashcard shows the phrase in **Czech**, **Amharic**, and **English**.
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ```text
-📂 Greetings & Basics (1/12)
+Greetings & Basics (1/12)
 ━━━━━━━━━━━━━━━━━━
-🇨🇿 Czech: Dobrý den
-🗣️ Pronunciation: ዶብሪ ደን
-🇪🇹 Amharic: ጤና ይስጥልኝ / እንደምን ዋሉ
-🇬🇧 English: Hello / Good day (Formal)
+ Czech: Dobrý den
+ Pronunciation: ዶብሪ ደን
+ Amharic: ጤና ይስጥልኝ / እንደምን ዋሉ
+ English: Hello / Good day (Formal)
 
 [ 🔊 Listen (Czech Audio) ]
 [ ⬅️ Prev ] [ Next ➡️ ]
@@ -45,7 +45,7 @@ czech_amharic_bot/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 - Python 3.9+ installed on your machine.
@@ -99,7 +99,7 @@ Now open Telegram, search for your bot, and send `/start` to begin learning!
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **[python-telegram-bot](https://python-telegram-bot.org/)** – Telegram Bot API wrapper
 - **[gTTS (Google Text-to-Speech)](https://pypi.org/project/gTTS/)** – On-the-fly Czech audio generation
@@ -107,6 +107,6 @@ Now open Telegram, search for your bot, and send `/start` to begin learning!
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License — feel free to use and adapt it!
